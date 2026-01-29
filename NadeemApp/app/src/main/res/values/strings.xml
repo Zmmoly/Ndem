@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">نديم</string>
+    
+    <!-- Auth Strings -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">التسجيل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="create_account">إنشاء حساب جديد</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    
+    <!-- Home Strings -->
+    <string name="home">الرئيسية</string>
+    <string name="recitation">التسميع</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="start_recitation">ابدأ التسميع الآن</string>
+    <string name="available_surahs">السور المتاحة للتسميع</string>
+    
+    <!-- Recitation Strings -->
+    <string name="start_recording">ابدأ التسجيل</string>
+    <string name="stop_recording">إيقاف التسجيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="resume">استئناف</string>
+    <string name="recording">جاري التسجيل…</string>
+    
+    <!-- Profile Strings -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="about">عن التطبيق</string>
+    <string name="share">مشاركة التطبيق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    
+    <!-- Stats Strings -->
+    <string name="total_recitations">إجمالي التسميعات</string>
+    <string name="completed_surahs">السور المكتملة</string>
+    
+    <!-- Messages -->
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    <string name="register_success">تم إنشاء الحساب بنجاح</string>
+    <string name="register_failed">فشل إنشاء الحساب</string>
+    <string name="logout_confirm">هل أنت متأكد من رغبتك في تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="cancel">إلغاء</string>
+    
+    <!-- Quran -->
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="verse_tarteel">وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا</string>
+</resources>
